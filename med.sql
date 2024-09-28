@@ -1,0 +1,1 @@
+ALTER TABLE med_new RENAME TO med;
